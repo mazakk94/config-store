@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          some-congig: qwerty123
+          some-config: qwerty123
           uri: https://gitlab.com/easyfit-group/easyfit
           search-paths:
            - '*service'
